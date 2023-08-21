@@ -1,0 +1,31 @@
+html{
+    background-color: aliceblue;
+}
+
+div{
+    text-align: center;
+    background-color: aquamarine;
+    border: 10px solid black;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 200px;
+}
+
+label{
+    font-weight: 800;
+}
+
+button { 
+    background-color: black; 
+    width: 80%;
+    color: white; 
+    padding: 15px; 
+    margin: 10px 0px; 
+    border: none; 
+    cursor: pointer; 
+    } 
+
+
+
+
+
